@@ -8,7 +8,7 @@
   "server": {
     "ip": "BasraCityServer.aternos.me",
     "port": 20839,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
